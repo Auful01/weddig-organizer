@@ -25,7 +25,6 @@
                 </div>
 
                 <div class="col-md-7 position-relative mt-5">
-                    {{-- Image --}}
                     <img src="{{ asset('images/img1.png') }}" alt="hero" class="img-fluid " style="z-index: 2;">
 
                     {{-- Gradient overlay --}}
